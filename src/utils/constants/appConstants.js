@@ -1,0 +1,21 @@
+export const appConstants = {
+  flavour_dev: 'DEV',
+  flavour_staging: 'STAGING',
+  flavour_production: 'PRODUCTION',
+  device_android: 'android',
+  device_ios: 'ios',
+  data: 'data',
+  id: 'id',
+  enable_loader: 'enable_loader',
+  error_message: 'error_message',
+  user_data: 'user_data',
+  terms_conditions: 'terms_conditions',
+  booking_data: 'booking_data',
+  amount: 'amount',
+  is_user_exist: 'is_user_exist',
+  is_progress: 'IN_PROGRESS',
+  // Toast
+  toast_error: 'danger',
+  toast_success: 'success',
+  toast_accept: 'Accept',
+};
